@@ -1,0 +1,15 @@
+PyYAML==6.0
+requests==2.24.0
+yagmail[all]
+pandas==1.1.5
+Flask==2.0.2
+lxml==4.7.1
+pycryptodome==3.12.0
+kafka-python==2.0.2
+ddddocr==1.4.3
+PyExecJS==1.5.1
+requests-toolbelt==0.9.1
+Flask-Log-Request-ID==0.10.1
+opencv-python-headless==4.5.4.60
+Werkzeug==2.0.2
+redis==4.2.2
